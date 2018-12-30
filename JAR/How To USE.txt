@@ -1,0 +1,14 @@
+Open 2 Command Bash
+Change dirctory to this folder
+Run the Server jar [ java -jar Server.jar]
+Run the Client jar [ java -jar Client.jar]
+
+Use Client Window
+	first select option a
+	Enter the dirctory of your java file
+	Enter the Name of Class in the java file
+	
+	select option b
+	enter the method name ; parameters as needed separated by ; each
+	repeat until boared
+	exit when done
